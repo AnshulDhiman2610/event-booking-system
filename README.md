@@ -32,7 +32,4 @@ Built using React.js for frontend, Node.js + Express.js for backend, and MongoDB
 ### Database
 - MongoDB
 
----
-
-## 📁 Project Structure
 
